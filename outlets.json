@@ -1,0 +1,479 @@
+[
+  {
+    "name": "Hoodi",
+    "latLong": "13.0032265, 77.7127928",
+    "storeId": "AP6",
+    "phone": "9606450122",
+    "pincode": "560036",
+    "longitude": "77.7127928",
+    "latitude": "13.0032265"
+  },
+  {
+    "name": "Jayanagar 4th Block",
+    "latLong": "12.9292656, 77.5816818999999",
+    "storeId": "AP7",
+    "phone": "9606450122",
+    "pincode": "560011",
+    "longitude": "77.5816819",
+    "latitude": "12.9292656"
+  },
+  {
+    "name": "Nelamangala",
+    "latLong": "13.0846155, 77.4166877999999",
+    "storeId": "F16",
+    "phone": "9606450122",
+    "pincode": "562123",
+    "longitude": "77.4166878",
+    "latitude": "13.0846155"
+  },
+  {
+    "name": "Sultan Palya",
+    "latLong": "13.0240687, 77.6029855",
+    "storeId": "AP12",
+    "phone": "9606450122",
+    "pincode": "560032",
+    "longitude": "77.6029855",
+    "latitude": "13.0240687"
+  },
+  {
+    "name": "Basavanagudi",
+    "latLong": "12.9455888, 77.5712556",
+    "storeId": "F1",
+    "phone": "9606450122",
+    "pincode": "560004",
+    "longitude": "77.5712556",
+    "latitude": "12.9455888"
+  },
+  {
+    "name": "Chittilappilly",
+    "latLong": "10.5497175915274, 76.1430688",
+    "storeId": "KL8",
+    "phone": "9606450122",
+    "pincode": "680551",
+    "longitude": "76.1430688",
+    "latitude": "10.54971759"
+  },
+  {
+    "name": "Koramangala Branch",
+    "latLong": "12.9369154, 77.6407258",
+    "storeId": "AP21",
+    "phone": "9606450122",
+    "pincode": "560095",
+    "longitude": "77.6407258",
+    "latitude": "12.9369154"
+  },
+  {
+    "name": "TC Palya Rammurthy Nagar",
+    "latLong": "13.020669, 77.677013",
+    "storeId": "AP13",
+    "phone": "9606450122",
+    "pincode": "560016",
+    "longitude": "77.677013",
+    "latitude": "13.020669"
+  },
+  {
+    "name": "Indira Nagar",
+    "latLong": "12.974462, 77.6382611",
+    "storeId": "F2",
+    "phone": "9606450122",
+    "pincode": "560038",
+    "longitude": "77.6382611",
+    "latitude": "12.974462"
+  },
+  {
+    "name": "Chalakudy",
+    "latLong": "10.5497175915274, 76.1430688",
+    "storeId": "KL9",
+    "phone": "9606450122",
+    "pincode": "680307",
+    "longitude": "76.1430688",
+    "latitude": "10.54971759"
+  },
+  {
+    "name": "BTM Layout",
+    "latLong": "12.9135793, 77.6098878999999",
+    "storeId": "AP2",
+    "phone": "9606450122",
+    "pincode": "560076",
+    "longitude": "77.6098879",
+    "latitude": "12.9135793"
+  },
+  {
+    "name": "Thriprayar",
+    "latLong": "10.5497175915274, 76.1430688",
+    "storeId": "KL10",
+    "phone": "9606450122",
+    "pincode": "680566",
+    "longitude": "76.1430688",
+    "latitude": "10.54971759"
+  },
+  {
+    "name": "Aluva",
+    "latLong": "10.0826222, 76.3492569",
+    "storeId": "KL12",
+    "phone": "9606450122",
+    "pincode": "683106",
+    "longitude": "76.3492569",
+    "latitude": "10.0826222"
+  },
+  {
+    "name": "Thubrahalli",
+    "latLong": "12.9556578, 77.7189386",
+    "storeId": "F14",
+    "phone": "9606450122",
+    "pincode": "560066",
+    "longitude": "77.7189386",
+    "latitude": "12.9556578"
+  },
+  {
+    "name": "Arekere",
+    "latLong": "12.8799403, 77.6156642",
+    "storeId": "AP1",
+    "phone": "9606450122",
+    "pincode": "560076",
+    "longitude": "77.6156642",
+    "latitude": "12.8799403"
+  },
+  {
+    "name": "Kothanur",
+    "latLong": "13.0622302, 77.6488945999999",
+    "storeId": "AP8",
+    "phone": "9606450122",
+    "pincode": "560077",
+    "longitude": "77.6488946",
+    "latitude": "13.0622302"
+  },
+  {
+    "name": "Thippasandra New",
+    "latLong": "12.9714638, 77.6578639",
+    "storeId": "AP19",
+    "phone": "9606450122",
+    "pincode": "560075",
+    "longitude": "77.6578639",
+    "latitude": "12.9714638"
+  },
+  {
+    "name": "Basaveshwar nagar",
+    "latLong": "12.9890283, 77.5331725",
+    "storeId": "F17",
+    "phone": "9606450122",
+    "pincode": "560079",
+    "longitude": "77.5331725",
+    "latitude": "12.9890283"
+  },
+  {
+    "name": "Cake Dept CO-BLR (R&D Dep)",
+    "latLong": "13.0206268, 77.6478851999999",
+    "storeId": "BLR4",
+    "phone": "9606450122",
+    "pincode": "560043",
+    "longitude": "77.6478852",
+    "latitude": "13.0206268"
+  },
+  {
+    "name": "Kakkanad",
+    "latLong": "10.047943, 76.3695166999999",
+    "storeId": "KL2",
+    "phone": "9606450122",
+    "pincode": "682021",
+    "longitude": "76.3695167",
+    "latitude": "10.047943"
+  },
+  {
+    "name": "Vivekanandanagar",
+    "latLong": "17.4801969, 78.4171028",
+    "storeId": "HB1",
+    "phone": "9606450122",
+    "pincode": "500072",
+    "longitude": "78.4171028",
+    "latitude": "17.4801969"
+  },
+  {
+    "name": "RR NAGAR",
+    "latLong": "12.9046486, 77.512553",
+    "storeId": "F13",
+    "phone": "9606450122",
+    "pincode": "560098",
+    "longitude": "77.512553",
+    "latitude": "12.9046486"
+  },
+  {
+    "name": "Bagalagunte",
+    "latLong": "13.052706, 77.4954875",
+    "storeId": "F18",
+    "phone": "9606450122",
+    "pincode": "'-",
+    "longitude": "77.4954875",
+    "latitude": "13.052706"
+  },
+  {
+    "name": "Thanisandra",
+    "latLong": "13.056297, 77.6307949999999",
+    "storeId": "AP17",
+    "phone": "9606450122",
+    "pincode": "560077",
+    "longitude": "77.630795",
+    "latitude": "13.056297"
+  },
+  {
+    "name": "Vidyaranyapura",
+    "latLong": "13.0755863, 77.5605604",
+    "storeId": "F8",
+    "phone": "9606450122",
+    "pincode": "560097",
+    "longitude": "77.5605604",
+    "latitude": "13.0755863"
+  },
+  {
+    "name": "Ulsoor",
+    "latLong": "12.9885207, 77.6175043",
+    "storeId": "AP14",
+    "phone": "9606450122",
+    "pincode": "560042",
+    "longitude": "77.6175043",
+    "latitude": "12.9885207"
+  },
+  {
+    "name": "Srinagar",
+    "latLong": "12.9416893, 77.556816",
+    "storeId": "F7",
+    "phone": "9606450122",
+    "pincode": "560050",
+    "longitude": "77.556816",
+    "latitude": "12.9416893"
+  },
+  {
+    "name": "Coimbatore Central Store Hub",
+    "latLong": "11.0682452, 77.0061453",
+    "storeId": "CBE2",
+    "phone": "9606450122",
+    "pincode": "641035",
+    "longitude": "77.0061453",
+    "latitude": "11.0682452"
+  },
+  {
+    "name": "RT Nagar Main Road",
+    "latLong": "13.0263598, 77.5933369",
+    "storeId": "AP11",
+    "phone": "9606450122",
+    "pincode": "560032",
+    "longitude": "77.5933369",
+    "latitude": "13.0263598"
+  },
+  {
+    "name": "Electronic City New",
+    "latLong": "12.8510155, 77.6498455",
+    "storeId": "F10A",
+    "phone": "9606450122",
+    "pincode": "560100",
+    "longitude": "77.6498455",
+    "latitude": "12.8510155"
+  },
+  {
+    "name": "Nagarbhavi",
+    "latLong": "12.9833571, 77.5107024",
+    "storeId": "F11",
+    "phone": "9606450122",
+    "pincode": "560072",
+    "longitude": "77.5107024",
+    "latitude": "12.9833571"
+  },
+  {
+    "name": "MATHIKERE",
+    "latLong": "13.0300581, 77.5596826",
+    "storeId": "F4",
+    "phone": "9606450122",
+    "pincode": "560054",
+    "longitude": "77.5596826",
+    "latitude": "13.0300581"
+  },
+  {
+    "name": "Sahakar Nagar",
+    "latLong": "13.0625296, 77.5929130999999",
+    "storeId": "F6",
+    "phone": "9606450122",
+    "pincode": "560092",
+    "longitude": "77.5929131",
+    "latitude": "13.0625296"
+  },
+  {
+    "name": "Vijaynagar",
+    "latLong": "12.9681779, 77.5392091",
+    "storeId": "AP15",
+    "phone": "9606450122",
+    "pincode": "560040",
+    "longitude": "77.5392091",
+    "latitude": "12.9681779"
+  },
+  {
+    "name": "HBR Layout",
+    "latLong": "13.0353236, 77.6284701",
+    "storeId": "AP4",
+    "phone": "9606450122",
+    "pincode": "'-",
+    "longitude": "77.6284701",
+    "latitude": "13.0353236"
+  },
+  {
+    "name": "Perumbavoor",
+    "latLong": "10.1069503, 76.4736602",
+    "storeId": "KL4",
+    "phone": "9606450122",
+    "pincode": "683542",
+    "longitude": "76.4736602",
+    "latitude": "10.1069503"
+  },
+  {
+    "name": "Padmanabha Nagar",
+    "latLong": "12.9158252, 77.5591111",
+    "storeId": "F12",
+    "phone": "9606450122",
+    "pincode": "560070",
+    "longitude": "77.5591111",
+    "latitude": "12.9158252"
+  },
+  {
+    "name": "Jayanagar New",
+    "latLong": "12.9292656, 77.5816818999999",
+    "storeId": "AP22",
+    "phone": "9606450122",
+    "pincode": "560011",
+    "longitude": "77.5816819",
+    "latitude": "12.9292656"
+  },
+  {
+    "name": "HOSKOTE",
+    "latLong": "13.0786599, 77.7869683999999",
+    "storeId": "F15",
+    "phone": "9606450122",
+    "pincode": "562129",
+    "longitude": "77.7869684",
+    "latitude": "13.0786599"
+  },
+  {
+    "name": "Test",
+    "latLong": "13.0353236, 77.6284701",
+    "storeId": "Test",
+    "phone": "9606450122",
+    "pincode": "'-",
+    "longitude": "77.6284701",
+    "latitude": "13.0353236"
+  },
+  {
+    "name": "HSR Layout",
+    "latLong": "12.9121181, 77.6445548",
+    "storeId": "AP5",
+    "phone": "9606450122",
+    "pincode": "'-",
+    "longitude": "77.6445548",
+    "latitude": "12.9121181"
+  },
+  {
+    "name": "Tilaknagar",
+    "latLong": "12.9217081, 77.5936183",
+    "storeId": "AP23",
+    "phone": "9606450122",
+    "pincode": "560041",
+    "longitude": "77.5936183",
+    "latitude": "12.9217081"
+  },
+  {
+    "name": "Banaswadi",
+    "latLong": "13.0145598, 77.6426501999999",
+    "storeId": "AP3",
+    "phone": "9606450122",
+    "pincode": "560043",
+    "longitude": "77.6426502",
+    "latitude": "13.0145598"
+  },
+  {
+    "name": "Mosque Road",
+    "latLong": "12.9983412, 77.6152673",
+    "storeId": "AP18",
+    "phone": "9606450122",
+    "pincode": "560006",
+    "longitude": "77.6152673",
+    "latitude": "12.9983412"
+  },
+  {
+    "name": "Malleshwaram  8th Cross",
+    "latLong": "12.9880937, 77.5679518",
+    "storeId": "AP25",
+    "phone": "9606450122",
+    "pincode": "560003",
+    "longitude": "77.5679518",
+    "latitude": "12.9880937"
+  },
+  {
+    "name": "Rajaji Nagar",
+    "latLong": "12.9889852, 77.5591944",
+    "storeId": "F5",
+    "phone": "9606450122",
+    "pincode": "560010",
+    "longitude": "77.5591944",
+    "latitude": "12.9889852"
+  },
+  {
+    "name": "Jalahalli",
+    "latLong": "13.0400003, 77.5187183",
+    "storeId": "F3",
+    "phone": "9606450122",
+    "pincode": "560057",
+    "longitude": "77.5187183",
+    "latitude": "13.0400003"
+  },
+  {
+    "name": "JP NAGAR",
+    "latLong": "12.8966315, 77.5861336999999",
+    "storeId": "AP16",
+    "phone": "9606450122",
+    "pincode": "560078",
+    "longitude": "77.5861337",
+    "latitude": "12.8966315"
+  },
+  {
+    "name": "Kothamangalam",
+    "latLong": "10.0470332, 76.6123883999999",
+    "storeId": "KL6",
+    "phone": "9606450122",
+    "pincode": "686691",
+    "longitude": "76.6123884",
+    "latitude": "10.0470332"
+  },
+  {
+    "name": "Thrissur",
+    "latLong": "10.4924777, 76.1986594999999",
+    "storeId": "KL5",
+    "phone": "9606450122",
+    "pincode": "680007",
+    "longitude": "76.1986595",
+    "latitude": "10.4924777"
+  },
+  {
+    "name": "Yelahanka",
+    "latLong": "13.0978384, 77.5968829999999",
+    "storeId": "F9",
+    "phone": "9606450122",
+    "pincode": "560064",
+    "longitude": "77.596883",
+    "latitude": "13.0978384"
+  },
+  {
+    "name": "Irijalakuda",
+    "latLong": "10.3365485, 76.2073525",
+    "storeId": "KL7",
+    "phone": "9606450122",
+    "pincode": "680121",
+    "longitude": "76.2073525",
+    "latitude": "10.3365485"
+  },
+  {
+    "name": "Govindapura(Nagawara)",
+    "latLong": "13.0329181, 77.6193124",
+    "storeId": "AP20",
+    "phone": "9606450122",
+    "pincode": "560045",
+    "longitude": "77.6193124",
+    "latitude": "13.0329181"
+  }
+]
